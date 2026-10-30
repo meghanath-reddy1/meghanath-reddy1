@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm a Computer Science Student 👋
 
-<!--
-**meghanath-reddy1/meghanath-reddy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-Year CSE-SE Student
 
-Here are some ideas to get you started:
+💻 Aspiring Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🌱 Learning C++ and Python.
+- 🌐 Exploring HTML, CSS, JavaScript, and React.
+- 🧠 Practising Data Structures and Algorithms.
+- 🚀 Building projects to improve my development skills.
+- 🎯 Working towards my first web development internship.
+
+## Skills
+- Programming: C++, Python
+- Currently Exploring: HTML, CSS, JavaScript
+- Tools: Git, GitHub, VS Code
+
+## Current Goals
+- Build responsive websites.
+- Create practical projects.
+- Improve problem-solving skills.
+- Learn React and modern web development.
+
+## Projects
+Projects will be added here as I build and publish them.
+
+## Connect With Me
+- GitHub: https://github.com/Meghanath-reddy1
+- LinkedIn: www.linkedin.com/in/r-meghanath-reddy.
